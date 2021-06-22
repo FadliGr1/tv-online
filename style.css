@@ -13,8 +13,8 @@ body {
 
 .nav-link {
   font-family: "Poppins", sans-serif;
-  font-weight: 300;
   color: #fff;
+  font-size: medium;
 }
 
 .btn {
@@ -34,10 +34,10 @@ body {
   font-weight: 200;
 }
 
-.heroimg {
-  width: 415px;
-  height: 400px;
-}
+/* .heroimg {
+  max-width: 415px;
+  max-height: 400px;
+} */
 
 #btn1 {
   background-color: #f49d11;
